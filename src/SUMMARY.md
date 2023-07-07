@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The role of technology in goal achievement](chapter-1-1.md)
   - [The potential of AI technology to enhance career success](chapter-1-2.md)
-  - [Overview of the book's content](chapter-1-3.md)
 - [Understanding AI Technology for Success](chapter-2.md)
   - [Types of AI technology for goal achievement](chapter-2-1.md)
   - [Benefits and limitations of each technology](chapter-2-2.md)
