@@ -1,5 +1,3 @@
-Optimizing Job Search with AI
-======================================================================
 
 Artificial intelligence (AI) technology can be a powerful tool for optimizing job search strategies, by providing personalized recommendations and insights based on candidate preferences and job market trends. In this chapter, we will explore how individuals can leverage AI technology to enhance their job search efforts.
 

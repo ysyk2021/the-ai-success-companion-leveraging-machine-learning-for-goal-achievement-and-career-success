@@ -1,5 +1,3 @@
-AI-Powered Career Management Strategies
-=======================================
 
 Artificial intelligence (AI) is transforming career management by offering new ways to optimize job search, improve resumes and cover letters, and plan for future career opportunities. In this chapter, we will explore some of the AI-powered career management strategies.
 

@@ -1,5 +1,3 @@
-Using AI for Resume and Cover Letter Writing
-=====================================================================================
 
 Artificial intelligence (AI) technology can be a powerful tool for enhancing career management strategies, particularly in the areas of resume and cover letter writing. In this chapter, we will explore how individuals can leverage AI technology to create effective resumes and cover letters.
 

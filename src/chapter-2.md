@@ -1,5 +1,3 @@
-Understanding AI Technology for Success
-=======================================
 
 Artificial intelligence (AI) technology offers a wide range of tools and applications that can support personal and professional development. However, understanding AI technology for success requires an understanding of the types of AI technology available, their benefits and limitations, and how to choose the right AI tool for your needs.
 

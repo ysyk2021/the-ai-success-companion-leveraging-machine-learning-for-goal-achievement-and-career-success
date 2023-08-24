@@ -1,4 +1,3 @@
-# Introduction
 
 The world of work is changing rapidly, with new technologies and emerging trends transforming the way we approach career development. In recent years, the field of career development has been transformed by the application of artificial intelligence (AI) and machine learning.
 

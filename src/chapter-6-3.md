@@ -1,5 +1,3 @@
-Using AI for Personalized Outreach
-=============================================================================
 
 Artificial intelligence (AI) technology can be a powerful tool for enhancing professional networking strategies, particularly in the areas of personalized outreach and communication. In this chapter, we will explore how individuals can leverage AI technology to create effective and personalized outreach messages.
 
