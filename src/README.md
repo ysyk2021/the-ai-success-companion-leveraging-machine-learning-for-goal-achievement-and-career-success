@@ -12,3 +12,7 @@ Throughout the book, we'll emphasize the importance of ethical considerations wh
 In conclusion, "The AI Success Companion: Leveraging Machine Learning for Goal Achievement and Career Success" is a comprehensive guidebook for anyone interested in leveraging AI to achieve better outcomes in their professional life. Whether you're a recent graduate, mid-career professional, or seasoned executive, this book will provide you with the knowledge and tools you need to thrive in the rapidly evolving landscape of AI-powered career development.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
